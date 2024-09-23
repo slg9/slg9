@@ -1,5 +1,8 @@
 <p align="center"><img src="https://media.giphy.com/media/4OAgvfwDaCXaGcOVI0/giphy.gif" width="400px" /></p>
-<div style="position:relative"><img style="position:absolute;top:10" src="https://media.giphy.com/media/uvteBEJoAJI2FCkJfv/giphy.gif" width="100px" /><h1 align="center" style="margin-left:10px;" > I'm Sébastien Legros</h1></div>
+<div style="margin:auto">
+<div style="position:relative"><img style="position:absolute;top:10" src="https://media.giphy.com/media/uvteBEJoAJI2FCkJfv/giphy.gif" width="100px" /><h1 style="margin-left:10px;" > I'm Sébastien Legros</h1></div>
+</div>
+
 <h3 align="center">A passionate Software Engineer from Reunion Island</h3>
 
 - 🔭 I’m currently working at [🐿️ Squirrel](https://www.squirrel.fr/)
