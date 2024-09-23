@@ -4,13 +4,21 @@
 <table>
 <tr>
 <td>
-- 🔭 I’m currently working at [🐿️ Squirrel](https://www.squirrel.fr/)
+<ul>
+    <li>
+    🔭 I’m currently working at [🐿️ Squirrel](https://www.squirrel.fr/)
+    </li>
+    <li>
+    🌱 I’m currently learning **Golang, API GraphQL, Design Patterns**
+    </li>
+    <li>
+    💬 Ask me about **Golang , GraphQL , React**
+    </li>
+    <li>
+    📫 How to reach me **slegros9@gmail.com**
+    </li>
+</ul>
 
-- 🌱 I’m currently learning **Golang, API GraphQL, Design Patterns**
-
-- 💬 Ask me about **Golang , GraphQL , React**
-
-- 📫 How to reach me **slegros9@gmail.com**
 </td>
 <td>
 <div align="center"><img src="https://media.giphy.com/media/4UJUQOjmpE67N8iMxM/giphy.gif" width="200px" /></div>
