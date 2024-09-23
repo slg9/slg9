@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sébastien Legros</h1>
 <h3 align="center">A passionate Software Engineer from Reunion Island</h3>
+<div align="center">
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+
+    <dotlottie-player src="https://lottie.host/1a6eae27-822a-4563-b23e-7cb14f0acadd/SkyArag98M.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+</div>
 
 - 🔭 I’m currently working at [🐿️ Squirrel](https://www.squirrel.fr/)
 
