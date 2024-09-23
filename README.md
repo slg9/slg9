@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sébastien Legros</h1>
 <h3 align="center">A passionate Software Engineer from Reunion Island</h3>
-<p align="center"><img src="https://media.giphy.com/media/wzNLsEHEnqdwU9UdDE/giphy.gif" width="500" height="250"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/5tW9dTGKHdsYxQFmr5/giphy.gif" /></p>
 
 - 🔭 I’m currently working at [🐿️ Squirrel](https://www.squirrel.fr/)
 
