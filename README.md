@@ -1,25 +1,34 @@
 <p align="center"><img src="https://media.giphy.com/media/4OAgvfwDaCXaGcOVI0/giphy.gif" width="400px" /></p>
-<h1 align="center" style="position:relative"><img style="position:absolute;top:-10;left:0" src="https://media.giphy.com/media/uvteBEJoAJI2FCkJfv/giphy.gif" width="100px" /> I'm Sébastien Legros</h1>
+<div align="center" style="display:flex;width:400px;margin:auto">
+    <div style="display:flex;position:relative;padding:0;align-items: center;">
+        <img src="https://media.giphy.com/media/uvteBEJoAJI2FCkJfv/giphy.gif" width="90px"  />
+    </div>
+    <h1>
+        I'm Sébastien Legros
+    </h1>
+</div>
 <h3 align="center">A passionate Software Engineer from Reunion Island</h3>
-<div style="width:50%">
+<div style="display:flex">
+<div style="width:50%;display:flex">
 <ul>
-    <li>
-    🔭 I’m currently working at [🐿️ Squirrel](https://www.squirrel.fr/)
-    </li>
-    <li>
-    🌱 I’m currently learning **Golang, API GraphQL, Design Patterns**
-    </li>
-    <li>
-    💬 Ask me about **Golang , GraphQL , React**
-    </li>
-    <li>
-    📫 How to reach me **slegros9@gmail.com**
-    </li>
+<li>
+🔭 I’m currently working at [🐿️ Squirrel](https://www.squirrel.fr/)
+</li>
+<li>
+🌱 I’m currently learning **Golang, API GraphQL, Design Patterns**
+</li>
+<li>
+💬 Ask me about **Golang , GraphQL , React**
+</li>
+<li>
+📫 How to reach me **slegros9@gmail.com**
+</li>
 </ul>
 
 </div>
-<div style="width:50%" >
+<div style="width:50%;display:flex" >
 <div align="center"><img src="https://media.giphy.com/media/4UJUQOjmpE67N8iMxM/giphy.gif" width="200px" /></div>
+</div>
 </div>
 
 
