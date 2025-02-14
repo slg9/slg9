@@ -2,10 +2,7 @@
     <img src="https://media.giphy.com/media/4OAgvfwDaCXaGcOVI0/giphy.gif" width="400px" />
 </p>
 
-<h3 align="center">🎨 Aesthetics Matter</h3>
-<div align="center">
-    <img src="https://media.giphy.com/media/4UJUQOjmpE67N8iMxM/giphy.gif" width="200px" />
-</div>
+
 
 ---
 
@@ -20,13 +17,17 @@
 ---
 
 <h3 align="center">🚀 About Me</h3>
+<h3 align="center">🎨 Aesthetics Matter</h3>
 <div align="center">
-<ul>
-    <li>🔭 Currently working at <a href="https://www.squirrel.fr/" target="_blank">🐿️ Squirrel</a></li>
-    <li>🌱 Learning <b>Golang, API GraphQL, React Native, Design Patterns</b></li>
-    <li>💬 Ask me about <b>Golang, GraphQL, React, React Native</b></li>
-    <li>📫 Reach me at <b>slegros9@gmail.com</b></li>
-</ul>
+    <img src="https://media.giphy.com/media/4UJUQOjmpE67N8iMxM/giphy.gif" width="200px" />
+</div>
+<div align="center">
+
+    <div>🔭 Currently working at <a href="https://www.squirrel.fr/" target="_blank">🐿️ Squirrel</a></div>
+    <div>🌱 Learning <b>Golang, API GraphQL, React Native, Design Patterns</b></div>
+    <div>💬 Ask me about <b>Golang, GraphQL, React, React Native</b></div>
+    <div>📫 Reach me at <b>slegros9@gmail.com</b></div>
+
 </div>
 
 ---
