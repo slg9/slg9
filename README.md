@@ -1,6 +1,9 @@
-<p align="center">
-    <img src="https://media.giphy.com/media/4OAgvfwDaCXaGcOVI0/giphy.gif" width="400px" />
-</p>
+<h3 align="center">🎨 Aesthetics Matter</h3>
+<div align="center">
+    <img src="https://media.giphy.com/media/4UJUQOjmpE67N8iMxM/giphy.gif" width="200px" />
+</div>
+
+---
 
 <h1 align="center">Hey there! 👋 I'm <span style="color:#00bfff">Sébastien Legros</span></h1>
 <h3 align="center">A Passionate Software Engineer from 🌴 Réunion Island</h3>
@@ -38,18 +41,23 @@
 
 ---
 
+<h3 align="center">🛠️ Other Languages and Tools</h3>
+<p align="center"> 
+    <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+    <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+    <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+</p>
+
+---
+
 <h3 align="left">📢 Connect with Me</h3>
 <p align="left">
     <a href="https://linkedin.com/in/sebastien-legros-23a85085" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://instagram.com/sebastien_lg9" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
-
----
-
-<h3 align="center">🎨 Aesthetics Matter</h3>
-<div align="center">
-    <img src="https://media.giphy.com/media/4UJUQOjmpE67N8iMxM/giphy.gif" width="200px" />
-</div>
 
 ---
 
