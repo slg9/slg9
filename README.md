@@ -15,10 +15,10 @@
 🔭 I’m currently working at [🐿️ Squirrel](https://www.squirrel.fr/)
 </li>
 <li>
-🌱 I’m currently learning **Golang, API GraphQL, Design Patterns**
+🌱 I’m currently learning **Golang, API GraphQL,React native, Design Patterns**
 </li>
 <li>
-💬 Ask me about **Golang , GraphQL , React**
+💬 Ask me about **Golang , GraphQL , React , React native **
 </li>
 <li>
 📫 How to reach me **slegros9@gmail.com**
