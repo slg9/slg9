@@ -23,10 +23,10 @@
 </div>
 <div align="center">
 
-    <div>🔭 Currently working at <a href="https://www.squirrel.fr/" target="_blank">🐿️ Squirrel</a></div>
-    <div>🌱 Learning <b>Golang, API GraphQL, React Native, Design Patterns</b></div>
-    <div>💬 Ask me about <b>Golang, GraphQL, React, React Native</b></div>
-    <div>📫 Reach me at <b>slegros9@gmail.com</b></div>
+    🔭 Currently working at <a href="https://www.squirrel.fr/" target="_blank">🐿️ Squirrel</a><br/>
+    🌱 Learning <b>Golang, API GraphQL, React Native, Design Patterns</b><br/>
+    💬 Ask me about <b>Golang, GraphQL, React, React Native</b><br/>
+    📫 Reach me at <b>slegros9@gmail.com</b><br/>
 
 </div>
 
