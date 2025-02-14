@@ -12,16 +12,16 @@
 <div style="width:50%;display:flex">
 <ul>
 <li>
-🔭 I’m currently working at [🐿️ Squirrel](https://www.squirrel.fr/)
+🔭 I’m currently working at <a href="https://www.squirrel.fr/" target="_blank">🐿️ Squirrel</a>
 </li>
 <li>
-🌱 I’m currently learning **Golang, API GraphQL,React native, Design Patterns**
+🌱 I’m currently learning <b>Golang, API GraphQL,React native, Design Patterns</b>
 </li>
 <li>
-💬 Ask me about **Golang , GraphQL , React , React native **
+💬 Ask me about <b>Golang , GraphQL , React , React native </b>
 </li>
 <li>
-📫 How to reach me **slegros9@gmail.com**
+📫 How to reach me <b>slegros9@gmail.com</b>
 </li>
 </ul>
 
