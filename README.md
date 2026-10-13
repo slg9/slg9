@@ -1,79 +1,121 @@
-<p align="center">
-    <img src="https://media.giphy.com/media/4OAgvfwDaCXaGcOVI0/giphy.gif" width="400px" />
-</p>
-
-
-
----
-
 <div align="center">
-    <img src="https://media.giphy.com/media/uvteBEJoAJI2FCkJfv/giphy.gif" width="90px"  />
-    <h1>I'm Sébastien Legros</h1>
-</div>
 
-<h3 align="center">A Passionate Software Engineer from 🌴 Réunion Island</h3>
-<p align="center">💻 Writing code, debugging life, and consuming way too much coffee ☕</p>
+# Sébastien Legros
 
----
+### Senior Full-Stack Developer &nbsp;·&nbsp; Software Engineer
 
-<h3 align="center">🚀 About Me</h3>
-<div align="center">
-    <h3 align="center">🎨 Aesthetics Matter</h3>
-<div align="center">
-    <img src="https://media.giphy.com/media/4UJUQOjmpE67N8iMxM/giphy.gif" width="200px" />
-</div>
-    🔭 Currently working at <a href="https://www.squirrel.fr/" target="_blank">🐿️ Squirrel</a><br>
-    🌱 Learning <b>Golang, API GraphQL, React Native, Design Patterns</b><br>
-    💬 Ask me about <b>Golang, GraphQL, React, React Native</b><br>
-    📫 Reach me at <b>slegros9@gmail.com</b>
+I design and ship web products end to end, from the database to the interface.<br/>
+Working fully remote from 🌴 Réunion Island.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/sebastienlegros.me-141414?style=for-the-badge&logo=safari&logoColor=white)](https://sebastienlegros.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e6ba8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastien-legros-23a85085)
+[![Email](https://img.shields.io/badge/slegros9@gmail.com-e0712a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slegros9@gmail.com)
+
 </div>
 
 ---
 
-<h3 align="center">🔥 My Current Stack</h3>
-<p align="center">
-    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-    <a href="https://reactnative.dev" target="_blank"><img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="react native" width="60" height="40"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+## Currently
 
-</p>
+| Where | Role | Stack |
+| :--- | :--- | :--- |
+| **Willow** <br/> `since 01/2026` | Software Designer & Developer <br/> *Full-time* | C# · WPF · WinForms · Blazor · DevExpress · XAF/XPO · SQL Server · Azure DevOps |
+| **Neitsa** <br/> `since 02/2026` | Freelance Developer | React · Next.js · Go · GraphQL · PostgreSQL |
+
+At Willow I build business desktop and web applications. On the freelance side, I ship features,
+maintenance and production releases for a mortgage broker's CRM, and design websites for independent
+professionals.
 
 ---
 
-<h3 align="center">🛠️ Other Languages and Tools</h3>
-<p align="center"> 
-    <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-    <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-</p>
-<p align="center"> 
-    <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-    <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-</p>
+## How I work
+
+- **Start from the real need.** Features follow user journeys, not wishlists.
+- **Write code that survives.** Clear architecture, explicit boundaries, maintainable over clever.
+- **Ship it properly.** CI/CD, migrations, monitoring and the last 10% of polish.
+
+10 years in tech — 3 of them leading full-stack development, remote.
 
 ---
 
-<h3 align="center">📢 Connect with Me</h3>
-<p align="center">
-    <a href="https://linkedin.com/in/sebastien-legros-23a85085" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://instagram.com/sebastien_lg9" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+## Stack
+
+**Web**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**APIs & Backend**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-4a4a46?style=flat-square&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Business software**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=devexpress&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 ---
 
-<h3 align="center">⚡ Fun Fact</h3>
-<p align="center">When my code compiles on the first try, I feel like a superhero. 🦸‍♂️</p>
+## Selected work
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **Business CRM Platform** | Prospect management, partner workflows, campaign tracking and business automations, built as one unified platform. | React · Go · GraphQL · PostgreSQL |
+| **Therapeutic Care Platform** | Structured content, patient follow-up and domain-specific therapeutic workflows. | React · Go · REST · PostgreSQL |
+| **Gamification & Campaign Engine** | Game mechanics, subscription plans, virtual wallet and reward flows around physical activation triggers. | Go · React · Stripe |
+| **Mobile Audio Platform** | GraphQL backend and editorial back-office feeding a mobile audio app. | Go · GraphQL · React |
+| **[Preznt](https://preznt.gifts)** | Interactive digital gifts: passwordless sign-in, Stripe webhooks, push notifications, 3D scenes. | Next.js 16 · React 19 · PostgreSQL · Three.js |
+| **Mentora** | Online English courses: teacher and student spaces, session builder, results tracking. | Next.js · Node.js · Prisma · PostgreSQL |
+| **Automated Editorial Pipeline** | Editorial videos generated automatically, subtitles included. | Go · Next.js · Remotion/FFmpeg |
+
+→ The full list, with architecture breakdowns, lives on **[sebastienlegros.me](https://sebastienlegros.me)**.
+
+---
+
+## Background
+
+```
+2026 →        Willow · Software Designer & Developer   (full-time)
+2026 →        Neitsa · Freelance Developer
+2022 – 2025   Squirrel · Lead Full-Stack Developer     (remote)
+2021 – 2022   Squirrel · Web Developer
+2017 – 2021   Région Réunion · Systems & Networks Administrator
+2016 – 2017   IRD · Research Engineer
+2012 – 2015   Computer & Telecommunications Engineering Degree
+2010 – 2012   DUT Networks & Telecommunications
+```
+
+From infrastructure to product engineering, then technical leadership.
+
+---
+
+<div align="center">
+
+**Open to opportunities** — remote, full-stack, product-minded.
+
+[sebastienlegros.me](https://sebastienlegros.me) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/sebastien-legros-23a85085) &nbsp;·&nbsp; [slegros9@gmail.com](mailto:slegros9@gmail.com)
+
+</div>
